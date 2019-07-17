@@ -8,7 +8,8 @@ These projects where first saved at:
 * [Project 4](https://github.com/jpmota2208/ed1Trabalho4)<br>
 * [Project 5](https://github.com/marcelo046/ed1Trabalho5)<br>
 
-Authos of the projects:
+Authos of the projects:<br>
+
 | Name | GitHub |
 |--|--|
 | Marcelo Araújo | [@santosm46](https://github.com/santosm46) |
