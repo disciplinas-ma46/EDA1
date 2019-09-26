@@ -2,6 +2,7 @@
 EDA1 - Estrutura de Dados e Algoritmos (Data Structures and Algorithms)
 
 Discipline taken in the first semester of 2018, the first 2 projects were not found.<br>
+They where made with my [old GitHub account](https://github.com/santosm46).<br>
 
 View the code of the projects at (where they were first saved):
 * [Project 3](https://github.com/jpmota2208/ed1Trabalho3)<br>
